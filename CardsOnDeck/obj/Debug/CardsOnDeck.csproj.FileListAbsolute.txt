@@ -1,0 +1,6 @@
+c:\users\centraluser\documents\visual studio 2015\Projects\CardsOnDeck\CardsOnDeck\bin\Debug\CardsOnDeck.exe.config
+c:\users\centraluser\documents\visual studio 2015\Projects\CardsOnDeck\CardsOnDeck\bin\Debug\CardsOnDeck.exe
+c:\users\centraluser\documents\visual studio 2015\Projects\CardsOnDeck\CardsOnDeck\bin\Debug\CardsOnDeck.pdb
+c:\users\centraluser\documents\visual studio 2015\Projects\CardsOnDeck\CardsOnDeck\obj\Debug\CardsOnDeck.csprojResolveAssemblyReference.cache
+c:\users\centraluser\documents\visual studio 2015\Projects\CardsOnDeck\CardsOnDeck\obj\Debug\CardsOnDeck.exe
+c:\users\centraluser\documents\visual studio 2015\Projects\CardsOnDeck\CardsOnDeck\obj\Debug\CardsOnDeck.pdb
